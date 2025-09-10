@@ -1,7 +1,7 @@
 <h1 align="center">Miguel Da Silva</h1>
 
 <p align="center">
-  💻 Desenvolvedor em formação • 🎓 Formado em SEngenharia Informática • 🛠 Apaixonado por dar vida às ideias
+  💻 Desenvolvedor em formação • 🎓 Formado em Engenharia Informática • 🛠 Apaixonado por dar vida às ideias
 </p>
 
 ---
