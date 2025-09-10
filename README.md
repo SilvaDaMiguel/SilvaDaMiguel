@@ -9,7 +9,7 @@
 ## 📖 Sobre mim
 <br>🎓 Formado em **Engenharia Informática** *(2025)*
 <!--<br>🎓 Mestrado em **Sistemas de Informação** *(início em 2025, atualmente no 1º Semestre)* -->
-<br>💼 Atualmente sem Emprego
+<!--<br>💼 Atualmente Desempregado-->
 <br>🚀 Aprimorando conhecimentos em Flutter
 <br>🖥️ Utilizador de **Windows**, **Visual Studio Code**
 
