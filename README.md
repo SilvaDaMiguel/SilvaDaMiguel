@@ -7,7 +7,8 @@
 ---
 
 ## 📖 Sobre mim
-<br>🎓 Formado em **Engenharia Informática** *(2025)*
+<br>🎓 Licenciatura em **Engenharia Informática** *(2022 - 2025)*
+<br>🎓 Mestrado em **Engenharia Informática - Sistemas de Informação** *(2025 - Atual)*
 <br>🚀 Aprimorando conhecimentos em Flutter
 <br>🖥️ Utilizador de **Windows**, **Visual Studio Code**
 
@@ -17,7 +18,7 @@
 
 | Desenvolvimento | Base de Dados | Ferramentas |
 | --------------- | -------------- | ----------- |
-| ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&link=https%3A%2F%2Fflutter.dev%2F) ![HTML5](https://img.shields.io/badge/HTML5-%23dc4d25?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%23146eb0?style=for-the-badge&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus) | ![SQL Server Management Studio](https://img.shields.io/badge/SQL_Server_Management_Studio-%23099ff1?style=for-the-badge&link=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fssms%2F) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white&link=https%3A%2F%2Fwww.postgresql.org%2F) ![MongoDB](https://img.shields.io/badge/MongoDB-%23%2347A248?style=for-the-badge&logo=mongodb&logoColor=white&link=https%3A%2F%2Fwww.mongodb.com%2F) | ![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230077b8?style=for-the-badge&link=https%3A%2F%2Fcode.visualstudio.com%2Fdocs) ![Git Desktop](https://img.shields.io/badge/Git%20Desktop-black?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FSilvaDaMiguel) |
+| ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&link=https%3A%2F%2Fflutter.dev%2F) ![HTML5](https://img.shields.io/badge/HTML5-%23dc4d25?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%23146eb0?style=for-the-badge&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus) | ![SQL Server Management Studio](https://img.shields.io/badge/SQL_Server_Management_Studio-%23099ff1?style=for-the-badge&link=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fssms%2F) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white&link=https%3A%2F%2Fwww.postgresql.org%2F) ![MongoDB](https://img.shields.io/badge/MongoDB-%23%2347A248?style=for-the-badge&logo=mongodb&logoColor=white&link=https%3A%2F%2Fwww.mongodb.com%2F) ![PowerDesigner](https://img.shields.io/badge/PowerDesigner-red?style=for-the-badge) | ![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230077b8?style=for-the-badge&link=https%3A%2F%2Fcode.visualstudio.com%2Fdocs) ![Git Desktop](https://img.shields.io/badge/Git%20Desktop-black?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FSilvaDaMiguel) |
 
 ---
 
