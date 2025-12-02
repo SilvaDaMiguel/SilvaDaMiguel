@@ -24,7 +24,7 @@
 
 ## 📅 Linha do Tempo
 
-<br>**2022:** Conxlusão do Secundário "Científico-Humanístico de Ciências e Tecnologias"
+<br>**2022:** Conclusão do Secundário "Científico-Humanístico de Ciências e Tecnologias"
 <br>**2024:** Projeto Integrado para a Softinsa "SoftShare"
 <br>**2025:** Conclusão da Licenciatura "Engenharia Informática"
 
